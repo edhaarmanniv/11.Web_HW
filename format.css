@@ -1,0 +1,17 @@
+/* Medium */
+@media (max-width: 768px) {  
+    body {
+    background-color: #999999
+}  
+    .navbar.bg-dark{
+        background-color: #123456}
+
+}
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 769px){ 
+    body{
+        background-color: #777777
+    }
+    .navbar.bg-dark{
+        background-color: #234567}
+ }
